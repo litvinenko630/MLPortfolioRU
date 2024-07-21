@@ -8,15 +8,14 @@
 
 В этом репозитории я храню проекты, которые выполнял в рамках изучения аналитики данных и машинного обучения. Здесь вы найдете работы, связанные с обработкой данных, исследовательским анализом данных, созданием признаков, построением моделей и их оценкой.
 
-## Используемые технологии
+## 🛠 Технический стек
 
-Мой основной стек технологий включает Python и ряд специализированных библиотек. Среди часто используемых инструментов:
-
-- Pandas и NumPy для обработки данных
-- Scikit-learn для машинного обучения
-- Seaborn для визуализации
-- Requests для работы с API
-- Optbinning для оптимизации биннинга
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-3776AB?style=flat-square&logo=python&logoColor=white)
 
 Кроме того, я гибко применяю другие библиотеки в зависимости от специфики проекта.
 
@@ -106,11 +105,31 @@ Python, Pandas, NumPy, Matplotlib, SciPy** (для статистических 
 
 Каждый проект сопровождается подробным описанием и ссылками на соответствующий код и дополнительные материалы.
 
+## 📈 Моя GitHub статистика
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=litvinenko630&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=litvinenko630&theme=radical" alt="GitHub Streak" />
+</p>
+
+## 🌱 Сейчас изучаю
+
+- 🤖 Продвинутые методы машинного обучения
+- 🧠 Глубокое обучение и нейронные сети
+- 📊 Большие данные и распределенные вычисления
+- 🐍 Оптимизация Python-кода
+
 
 ## Контакты
 
 Если у вас есть вопросы или предложения по улучшению проектов, пожалуйста, свяжитесь со мной:
-- Email: litvinenko630@yandx.ru
+- Email: litvinenko630@yandex.ru
 - LinkedIn: [Sergey Litvinenko](linkedin.com/in/sergey-litvinenko-42451695)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sergey-litvinenko-42451695/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:litvinenko630@yandex.ru)
 
 Буду рад получить отзывы и комментарии по моим работам. Спасибо!
